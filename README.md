@@ -1,12 +1,11 @@
 # 🌷🤵chat-沪语-阿宝
-[![license][license-image]][license-url] | [![OpenXLab_Model][OpenXLab_Model-image]][OpenXLab_Model-url] | [<img src="./images/modelscope_logo.png" width="20px" /> ModelScope][ModelScope-url]
 
-[license-image]: ./images/license.svg
+[![Static Badge](https://img.shields.io/badge/openxlab-Apache%202.0-blue)][license-url] | [![OpenXLab_Model][OpenXLab_Model-image]][OpenXLab_Model-url] | [<img src="./imgs/modelscope_logo.png" width="20px" /> ModelScope][ModelScope-url]
+
 [OpenXLab_Model-image]: https://cdn-static.openxlab.org.cn/header/openxlab_models.svg
 [license-url]: ./LICENSE
 [OpenXLab_Model-url]: https://openxlab.org.cn/models/detail/hoo01/chat-huyu-ABao
 [ModelScope-url]: https://www.modelscope.cn/models/hooo01/chat-huyu-ABao
-
 ## 简介
 
 chat-沪语-阿宝是基于《繁花》剧本和大模型生成的问答对，使用InternLM2进行Lora微调+RAG语料库得到的扮演阿宝的上海方言角色聊天模型。
