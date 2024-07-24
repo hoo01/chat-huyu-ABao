@@ -1,8 +1,8 @@
 # 🌷🤵chat-沪语-阿宝
 
-[![Static Badge](https://img.shields.io/badge/openxlab-Apache%202.0-blue)][license-url] | [![OpenXLab_Model][OpenXLab_Model-image]][OpenXLab_Model-url] | [<img src="./imgs/modelscope_logo.png" width="20px" /> ModelScope][ModelScope-url]
+[![Static Badge](https://img.shields.io/badge/license-Apache%202.0-00a2a8)][license-url] | [![Static Badge](https://img.shields.io/badge/openxlab-models-blue)][OpenXLab_Model-url] | [![Static Badge](https://img.shields.io/badge/modelscope-models-9371ab)
+][ModelScope-url]
 
-[OpenXLab_Model-image]: https://cdn-static.openxlab.org.cn/header/openxlab_models.svg
 [license-url]: ./LICENSE
 [OpenXLab_Model-url]: https://openxlab.org.cn/models/detail/hoo01/chat-huyu-ABao
 [ModelScope-url]: https://www.modelscope.cn/models/hooo01/chat-huyu-ABao
