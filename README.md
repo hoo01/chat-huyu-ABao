@@ -1,4 +1,11 @@
 # 🌷🤵chat-沪语-阿宝
+[![license][license-image]][license-url] | [![OpenXLab_Model][OpenXLab_Model-image]][OpenXLab_Model-url] | [<img src="./images/modelscope_logo.png" width="20px" /> ModelScope][ModelScope-url]
+
+[license-image]: ./images/license.svg
+[OpenXLab_Model-image]: https://cdn-static.openxlab.org.cn/header/openxlab_models.svg
+[license-url]: ./LICENSE
+[OpenXLab_Model-url]: https://openxlab.org.cn/models/detail/hoo01/chat-huyu-ABao
+[ModelScope-url]: https://www.modelscope.cn/models/hooo01/chat-huyu-ABao
 
 ## 简介
 
