@@ -172,7 +172,7 @@ RAG设计链路参考：<br>
 
 ## 致谢
 
- - [书生浦语](https://internlm.intern-ai.org.cn/)提供的平台及算力资源 
- - 闻星大佬和助教提供的教学帮助
+ - [书生浦语](https://internlm.intern-ai.org.cn/)提供的平台及算力资源<br>
+ - 闻星大佬和助教提供的教学帮助<br>
 欢迎大家报名新一期的书生浦语大模型实战营！[第三期报名](https://github.com/InternLM/Tutorial)
 
