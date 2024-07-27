@@ -31,7 +31,7 @@ chat-沪语-阿宝是基于《繁花》剧本和大模型生成的问答对，�
 
 **1.clone 本项目至本地开发机** 
 
-    git clone [https://github.com/hoo01/chat-huyu-ABao.git](https://github.com/hoo01/chat-huyu-ABao.git)
+    git clone https://github.com/hoo01/chat-huyu-ABao.git
 
 **2.配置环境**
 
