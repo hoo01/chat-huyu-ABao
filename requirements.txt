@@ -3,11 +3,11 @@ langchain==0.2.10
 langchain_community==0.2.9
 langchain_huggingface==0.0.3
 langchain_text_splitters==0.2.2
-modelscope==1.9.5
+modelscope==1.14.0
 openai==1.37.0
 streamlit==1.24.0
 torch==2.0.1
 tqdm==4.66.4
 transformers
-chromadb
+chromadb==0.5
 sentencepiece
