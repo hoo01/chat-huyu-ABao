@@ -20,7 +20,11 @@ chat-沪语-阿宝是基于《繁花》剧本和大模型生成的问答对，�
 
 ## 架构图
 ![enter image description here](https://github.com/hoo01/chat-huyu-ABao/blob/main/imgs/%E6%9E%B6%E6%9E%84.jpg?raw=true)
- ## 项目亮点
+
+## 讲解视频
+https://www.bilibili.com/video/BV1sJvFeXELe/?spm_id_from=333.999.0.0&vd_source=9b01f3d1e6addb97637b80b1bb9c008b
+
+## 项目亮点
 
  1. 使用上海方言回答
  2.  《繁花》关键剧情、人物关系等问题上回答表现良好
