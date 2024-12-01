@@ -84,7 +84,7 @@ The format of the converted dialogues is as follows:
 
 2. Generate Q&A pairs using the API.<br>
 2.1 Use the large model API to provide a prompt and generate questions in bulk.  
-The complete script can be found in `data/数据准备/gen_q_api.ipynb`.
+The complete script can be found in `data/数据准备/gen_q_api.ipynb`.<br>
 2.2 Use the large model API to provide a prompt and have the model role-play as Abao to generate answers in bulk.  
 The complete script can be found in `data/数据准备/q2a_api.ipynb`.
 
