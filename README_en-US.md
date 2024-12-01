@@ -24,7 +24,7 @@ chat-HuYu-Abao is a Q&A model generated based on the script of _Blossoms Shangha
 ![enter image description here](https://github.com/hoo01/chat-huyu-ABao/blob/main/imgs/%E8%8B%B1%E6%96%87%E6%9E%B6%E6%9E%84.png?raw=true)
 
 ## Explanatory Video
-[Fine-tune the InternLM and have a conversation in Shanghai dialect with Abao from Blossoms Shanghai!](https://www.bilibili.com/video/BV1sJvFeXELe/?spm_id_from=333.999.0.0&vd_source=9b01f3d1e6addb97637b80b1bb9c008b)
+[Fine-tune the InternLM and have a conversation in Shanghai dialect with Abao from Blossoms Shanghai!](https://www.bilibili.com/video/BV1t86FY9ESn/?vd_source=9b01f3d1e6addb97637b80b1bb9c008b)
 
 ## Project highlights
 
