@@ -98,7 +98,7 @@ Official tutorial for the xtuner fine-tuning  <br>
 https://github.com/InternLM/Tutorial/blob/camp2/xtuner/personal_assistant_document.md
 https://github.com/InternLM/Tutorial/blob/camp2/data_fine_tuning/data_fine_tuning.md<br>
 1.Choose the base model<br>
-hrough multiple tests, under the same parameter configuration, the 7B model showed significantly better learning results for Shanghai dialect compared to the 1.8B model. Therefore, the base model selected is internlm2-chat-7b<br>
+through multiple tests, under the same parameter configuration, the 7B model showed significantly better learning results for Shanghai dialect compared to the 1.8B model. Therefore, the base model selected is internlm2-chat-7b<br>
 2.Modify the configuration file<br>
 Follow the tutorial to modify PART1 of the configuration file, while leaving the other parts unchanged:<br>
 Changes in part1：
