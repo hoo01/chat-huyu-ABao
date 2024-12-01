@@ -6,6 +6,8 @@
 [license-url]: ./LICENSE
 [OpenXLab_Model-url]: https://openxlab.org.cn/models/detail/hoo01/chat-huyu-ABao
 [ModelScope-url]: https://www.modelscope.cn/models/hooo01/chat-huyu-ABao
+
+[English](./README_en-US.md) | [简体中文](./README.md)
 ## 简介
 
 chat-沪语-阿宝是基于《繁花》剧本和大模型生成的问答对，使用InternLM2进行Lora微调+RAG语料库得到的扮演阿宝的上海方言角色聊天模型。
