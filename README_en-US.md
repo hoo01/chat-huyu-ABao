@@ -8,7 +8,7 @@
 [OpenXLab_Model-url]: https://openxlab.org.cn/models/detail/hoo01/chat-huyu-ABao
 [ModelScope-url]: https://www.modelscope.cn/models/hooo01/chat-huyu-ABao
 
-[English](./README_en-US.md) | [简体中文](./README.md)
+[English](./README_en-US.md) | [简体中文](./README-zh.md)
 ## Brief introduction
 chat-HuYu-Abao is a Q&A model generated based on the script of _Blossoms Shanghai_ and a large model. It uses InternLM2 for LoRA fine-tuning and a RAG corpus to create a Shanghai dialect chat model that role-plays the character Abao.
 
@@ -84,7 +84,7 @@ The format of the converted dialogues is as follows:
 
 2. Generate Q&A pairs using the API.<br>
 2.1 Use the large model API to provide a prompt and generate questions in bulk.  
-The complete script can be found in `data/数据准备/gen_q_api.ipynb`.
+The complete script can be found in `data/数据准备/gen_q_api.ipynb`.<br>
 2.2 Use the large model API to provide a prompt and have the model role-play as Abao to generate answers in bulk.  
 The complete script can be found in `data/数据准备/q2a_api.ipynb`.
 
@@ -98,7 +98,7 @@ Official tutorial for the xtuner fine-tuning  <br>
 https://github.com/InternLM/Tutorial/blob/camp2/xtuner/personal_assistant_document.md
 https://github.com/InternLM/Tutorial/blob/camp2/data_fine_tuning/data_fine_tuning.md<br>
 1.Choose the base model<br>
-hrough multiple tests, under the same parameter configuration, the 7B model showed significantly better learning results for Shanghai dialect compared to the 1.8B model. Therefore, the base model selected is internlm2-chat-7b<br>
+through multiple tests, under the same parameter configuration, the 7B model showed significantly better learning results for Shanghai dialect compared to the 1.8B model. Therefore, the base model selected is internlm2-chat-7b<br>
 2.Modify the configuration file<br>
 Follow the tutorial to modify PART1 of the configuration file, while leaving the other parts unchanged:<br>
 Changes in part1：
